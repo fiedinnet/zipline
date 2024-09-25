@@ -14,7 +14,7 @@ A ShareX/file upload server that is easy to use, packed with features, and with 
 
 </div>
 
-## Features
+## Lots of Features
 
 - Configurable
 - Fast
